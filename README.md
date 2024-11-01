@@ -1,2 +1,1 @@
-# alx-backend-python
-Python backend studies at ALX
+# Alx Backend Python
